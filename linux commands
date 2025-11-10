@@ -1,5 +1,0 @@
-1. Generating the public key and private key
-```
-ssh-keygeen -f <filename>
-```
-ex:- ssh-keygen -f siva
